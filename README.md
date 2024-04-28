@@ -40,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -77,6 +77,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=reenaldo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/reenaldo/reenaldo/output/snake.svg" alt="Snake animation" />
 
 ###
 
