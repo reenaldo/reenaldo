@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Renaldo from 🇦🇱<br><br>- 🎮 Gaming is my hobby, and I love diving into immersive worlds and challenging quests.<br>- 📚 I'm a student studying mathematics and informatics.<br>- ⚡ In my free time, I code for fun and learning.</p>
+<p align="left">I'm Renaldo from 🇦🇱<br><br>- 🎮 Gaming is my hobby, and I love diving into immersive worlds and challenging quests.<br>- 📚 I'm a student studying computer science.<br>- ⚡ In my free time, I code for fun and learning.</p>
 
 ###
 
