@@ -27,7 +27,7 @@
 ###
 
 <p align="left">
-I'm Renaldo, a Computer Science student based in Strasbourg, France, passionate about software engineering and problem solving.<br>
+I'm Renaldo, a Computer Science student based in Strasbourg, France.<br>
 
 - 🎓 Computer Science student with strong academic foundations<br>
 - 💻 Focused on backend and full-stack development<br>
